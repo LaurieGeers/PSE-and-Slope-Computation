@@ -14,13 +14,13 @@ You must provide your data in a .xlsx or .csv file located in the same folder as
 
 📊 Output Files
 The script generates the following results:
-- A CSV file containing:
-  Intercept (a)
-  Slope (b)
-  Point of Subjective Equality (PSE)
-  For each participant and condition.
+A CSV file containing:
+- Intercept (a)
+- Slope (b)
+- Point of Subjective Equality (PSE)
+- For each participant and condition.
 
-- Three images for visualization:
-  Scatter plots of individual responses (Y vs. X).
-  Fitted logistic regression curves for each participant.
-  A plot of the average PSE as a function of the condition.
+Three images for visualization:
+- Scatter plots of individual responses (Y vs. X).
+- Fitted logistic regression curves for each participant.
+- A plot of the average PSE as a function of the condition.
