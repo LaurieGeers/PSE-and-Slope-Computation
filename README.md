@@ -14,6 +14,7 @@ You must provide your data in a .xlsx or .csv file located in the same folder as
 
 📊 Output Files
 The script generates the following results:
+
 A CSV file containing:
 - Intercept (a)
 - Slope (b)
